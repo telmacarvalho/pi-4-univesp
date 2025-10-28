@@ -14,3 +14,4 @@ Por fim, o resultado foi exportado para um dashboard dinâmico no [Looker Studio
 
 Este sistema desenvolvido funciona como uma ferramenta estratégica de apoio à tomada de decisão para gestores de Segurança e Saúde no Trabalho (SST), permitindo a adoção de medidas preventivas mais eficazes. Além de contribuir para a redução da ocorrência de acidentes, o projeto visa aprimorar as práticas de gestão de riscos no setor petroquímico, promovendo ambientes de trabalho mais seguros e fortalecendo a cultura de prevenção e responsabilidade corporativa.
 
+Foi disponibilizado um vídeo breve de apresentação do projeto no [Youtube](https://youtu.be/s4DxCkGfGpI).
